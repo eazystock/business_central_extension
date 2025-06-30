@@ -1,1 +1,1 @@
-# business_central_extension
+The EazyStock Business Central Extension enhances Microsoft Dynamics 365 Business Central with additional API endpoints specifically designed for seamless EazyStock integration. This extension provides enhanced data access and functionality that extends beyond the standard Business Central API capabilities.
